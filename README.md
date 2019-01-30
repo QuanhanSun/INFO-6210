@@ -1,3 +1,3 @@
 # INFO-6210
-Database design and management
+Database design and management  
 For homework and review
